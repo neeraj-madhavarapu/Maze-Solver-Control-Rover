@@ -13,3 +13,40 @@ Implemented differential drive kinematics for navigation.
 Integrated IR sensors for obstacle detection and avoidance.
 Assisted in implementing and testing the A* shortest-path algorithm.
 Coordinated testing, debugging, and overall project execution.
+
+---
+
+# Hardware and Software
+
+## Microcontroller
+
+- Arduino Uno
+
+## Hardware Components
+
+- Motor Driver Module
+- DC Geared Motors
+- Rover Chassis
+- Wheels
+- Power Supply Module
+- Buzzer Module
+
+## Sensors
+
+- IR Obstacle Detection Sensors
+- IR Transmitter & Receiver
+- Ultrasonic Sensor (HC-SR04)
+
+## Communication Protocols
+
+- GPIO
+- PWM (Motor Speed Control)
+- UART (Programming and Serial Debugging)
+
+## Software Tools
+
+- Arduino IDE
+- Embedded C/C++
+- Serial Monitor
+
+---
