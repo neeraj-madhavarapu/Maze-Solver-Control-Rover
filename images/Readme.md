@@ -1,0 +1,1 @@
+**Note:** The images above showcase the rover during its development and testing phases. Although the team could not participate in the maze-solving competition due to a scheduling conflict between the revised academic calendar and the competition dates, the project was successfully completed and thoroughly tested.
