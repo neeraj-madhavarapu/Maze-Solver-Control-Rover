@@ -5,6 +5,7 @@ Led a team of four in designing and building an autonomous maze-solving rover fr
 
 ---
 # image
+[https://github.com/neeraj-madhavarapu/Maze-Solver-Control-Rover/tree/main/image%20%26%20Video]
 ---
 # Role and Contribution
 Team Lead for a four-member robotics team.
